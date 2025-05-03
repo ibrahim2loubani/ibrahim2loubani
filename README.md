@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-I’m a full-time front-end developer with more than 5 years of experience in building web apps using different technologies.
+I’m a full-time front-end developer with more than 8 years of experience in building web apps using different technologies.
 
 I specialize in building pixel perfect responsive designs along with using the most trending technologies in order to achieve the best user experience.  
   
