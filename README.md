@@ -1,105 +1,217 @@
-## Hey 👋, I'm Ibrahim Loubani!  
-  
+## Hey 👋, I'm Ibrahim Loubani!
 
-<a href="https://github.com/https://github.com/ibrahim2loubani" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/ibrahim2loubani" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://dev.to/https://dev.to/ibrahim2loubani" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<a href="https://www.linkedin.com/in/ibrahim-loubani" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ibrahim-al-loubani-41166b134/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
 
+### 👋 Glad to see you here!
 
+I'm a **Senior Frontend Developer with 9+ years of experience** specializing in **React.js, Next.js, and TypeScript**.
 
-### Glad to see you here!  
-I’m a full-time front-end developer with more than 8 years of experience in building web apps using different technologies.
+I build high-performance, scalable and accessible web applications for **B2B and enterprise platforms**, with a strong focus on performance, reusable component architecture, responsive UI, and great user experiences.
 
-I specialize in building pixel perfect responsive designs along with using the most trending technologies in order to achieve the best user experience.  
-  
+I've worked across the full development lifecycle — from building pixel-perfect frontend interfaces and optimizing Core Web Vitals to developing backend services with **NestJS, Node.js, PostgreSQL, REST APIs, and WebSockets**.
 
-<br/>  
+I also enjoy mentoring developers, reviewing code, improving engineering practices, and collaborating with product, design, backend, and QA teams.
 
+---
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## 🚀 What I Do
 
-- 🔭 I’m currently working at [Numeric Slick](https://numericslick.com/)  
-  
+- ⚛️ Build scalable applications with **React.js, Next.js & TypeScript**
+- 🎨 Create reusable and accessible UI systems with **TailwindCSS, ShadCN & MUI**
+- 🚀 Optimize applications using **SSR, ISR, API caching, code splitting & lazy loading**
+- 📊 Improve **Core Web Vitals, Lighthouse scores, SEO & overall application performance**
+- 🔌 Build backend services using **Node.js, NestJS, Express & REST APIs**
+- ⚡ Develop real-time applications using **WebSockets**
+- 🗄️ Work with **PostgreSQL, MongoDB & Firebase**
+- 🧠 Manage complex application state with **Redux Toolkit & Zustand**
+- 👨‍💻 Perform code reviews and establish frontend best practices
+- 🤝 Collaborate with product, design, backend and QA teams
+- 👨‍🏫 Mentor junior developers and help teams improve development practices
 
-- 🌱 I’m currently working with Next, React, Tailwind  
-  
+---
 
-- ❓ Ask me about anything related to Next, React, JavaScript, Tailwind, CSS and related technologies  
+## 💼 Experience
 
+### Full Stack Developer — Areeba
+**Sep 2025 – Present**
 
-</td><td valign="top" width="50%">
+- Building React and Redux Toolkit frontend features
+- Designing NestJS + PostgreSQL backend services
+- Developing and supporting a separate Next.js application
+- Improving SEO and server-side rendering
+- Conducting code reviews and enforcing frontend best practices
+- Collaborating with product, design and QA teams
+
+### Senior Frontend Developer — Endspacemena
+**Aug 2023 – Jul 2025**
+
+- Improved frontend performance by **40%** using Next.js SSR, API caching and routing/SEO optimizations
+- Built full-stack B2B platforms and developer portals
+- Developed real-time ERP functionality using WebSockets
+- Worked closely with backend developers, designers and product owners
+- Maintained accessibility and scalable frontend architecture
+
+### Senior Frontend Developer — Numeric Slick
+**2019 – Jul 2023**
+
+- Improved application performance by **50%** through performance audits, code splitting and lazy loading
+- Built a reusable **TypeScript + TailwindCSS component library**
+- Increased delivery speed by **35%** through reusable UI architecture
+- Mentored **4 junior developers**
+- Built role-based dashboards and complex business applications
+- Developed real-time inventory and notification systems
+- Built booking systems with live calendar functionality
+
+### Frontend Developer — AIY Expert Solutions
+**Feb 2018 – Apr 2019**
+
+- Improved UI responsiveness by **20%** through Webpack optimization and lazy loading
+- Built cross-platform applications using **React.js and Electron.js**
+
+---
+
+## 🛠️ Languages & Tools
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="45" />
+</a>
 
-</td></tr></table>  
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45" />
+</a>
 
-<br/>  
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" />
+</a>
 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" />
+</a>
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="25" /></a>  
-<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://gulpjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gulp-plain.svg" alt="gulp.js" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-</div>  
+<a href="https://redux-toolkit.js.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=redux" alt="Redux Toolkit" height="45" />
+</a>
 
-<br/>  
+<a href="https://zustand.docs.pmnd.rs/" target="_blank">
+<img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" height="45" />
+</a>
 
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" height="45" />
+</a>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+<a href="https://ui.shadcn.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=shadcn" alt="ShadCN" height="45" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim2loubani&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<a href="https://mui.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" height="45" />
+</a>
 
-</td><td valign="top" width="50%">
+<a href="https://sass-lang.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=sass" alt="SCSS" height="45" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim2loubani&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" />
+</a>
 
-</td></tr></table>  
+<a href="https://nestjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" height="45" />
+</a>
 
-<br/>  
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" />
+</a>
 
-  
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" />
+</a>
 
-<br/>  
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" />
+</a>
 
-  
+<a href="https://firebase.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="45" />
+</a>
 
-<br/>  
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" />
+</a>
 
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" />
+</a>
 
-<br />
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" />
+</a>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<a href="https://reactnative.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" alt="React Native" height="45" />
+</a>
+
+<a href="https://www.electronjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=electron" alt="Electron" height="45" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Performance & Engineering
+
+<div align="center">
+
+![SSR](https://img.shields.io/badge/SSR-Next.js-black?style=for-the-badge)
+![ISR](https://img.shields.io/badge/ISR-Next.js-black?style=for-the-badge)
+![API Caching](https://img.shields.io/badge/API-Caching-blue?style=for-the-badge)
+![Web Vitals](https://img.shields.io/badge/Web-Vitals-orange?style=for-the-badge)
+![Lighthouse](https://img.shields.io/badge/Google-Lighthouse-yellow?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-purple?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST-APIs-green?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-DevOps-blue?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahim2loubani&show_icons=true&count_private=true&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim2loubani&hide_border=true&layout=compact" width="48%" />
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- **Meta Frontend Developer Specialization** — Meta & Pearson / Coursera
+- **CCNP** — Cisco Systems
+- **CCNA** — Cisco Systems
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing **frontend architecture, React, Next.js, performance optimization, real-time applications, and full-stack development**.
+
+<a href="https://www.linkedin.com/in/ibrahim-loubani" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-%231E77B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:ibrahimloubani2@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
